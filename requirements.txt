@@ -1,0 +1,86 @@
+# ==========================================
+# LangChain Core
+# ==========================================
+langchain
+langchain-core
+langchain-community
+langchain-classic
+langchain-text-splitters
+
+# ==========================================
+# LangGraph - Agentic Workflows
+# ==========================================
+langgraph
+langgraph-checkpoint
+langgraph-prebuilt
+
+# ==========================================
+# Google Gemini Integration
+# ==========================================
+langchain-google-genai
+google-genai
+
+# ==========================================
+# Vector Databases
+# ==========================================
+langchain-chroma
+chromadb
+faiss-cpu
+
+# ==========================================
+# Embeddings and Retrieval
+# ==========================================
+sentence-transformers
+
+# ==========================================
+# Document Loaders
+# ==========================================
+pypdf
+pymupdf
+unstructured
+beautifulsoup4
+python-docx
+openpyxl
+
+# ==========================================
+# Data Processing
+# ==========================================
+numpy
+pandas
+
+# ==========================================
+# Environment Variables
+# ==========================================
+python-dotenv
+
+# ==========================================
+# APIs and HTTP Requests
+# ==========================================
+requests
+httpx
+
+# ==========================================
+# Web Search and Wikipedia Tools
+# ==========================================
+tavily-python
+wikipedia
+
+# ==========================================
+# Structured Output and Validation
+# ==========================================
+pydantic
+
+# ==========================================
+# Application Development
+# ==========================================
+streamlit
+fastapi
+uvicorn
+typing-extensions
+
+# ==========================================
+# Jupyter Notebook Support
+# ==========================================
+ipykernel
+jupyter
+
